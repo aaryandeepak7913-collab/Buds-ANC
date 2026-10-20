@@ -1,0 +1,17 @@
+{
+  "name": "Buds ANC Lab",
+  "short_name": "ANC Lab",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e0e0e",
+  "theme_color": "#0e0e0e",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%230e0e0e'/%3E%3Cpath d='M136 300v-60a120 120 0 0 1 240 0v60' fill='none' stroke='%23d4a63a' stroke-width='28' stroke-linecap='round'/%3E%3Crect x='112' y='288' width='56' height='100' rx='24' fill='%23d4a63a'/%3E%3Crect x='344' y='288' width='56' height='100' rx='24' fill='%23d4a63a'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
